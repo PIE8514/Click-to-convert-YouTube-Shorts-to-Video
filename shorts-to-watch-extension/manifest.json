@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Shorts to Watch (One-Click)",
+  "version": "1.0",
+  "description": "Click the extension icon to convert Shorts URL to Watch format.",
+  "permissions": ["tabs", "scripting"],
+  "action": {
+    "default_title": "Convert Shorts URL"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
