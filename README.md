@@ -1,1 +1,1 @@
-put this on web store after turning developer mode
+put this on web store after turning developer mode on
