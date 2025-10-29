@@ -1,1 +1,1 @@
-make a folder for this and put this in developer mode
+put this on web store after turning developer mode
